@@ -1,4 +1,6 @@
-streamlit
+fastapi
+uvicorn
 transformers
 torch
 sentencepiece
+protobuf
