@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 transformers
-torch
+torch --index-url https://pytorch.org
 sentencepiece
 protobuf
